@@ -1,4 +1,4 @@
-# discord.py-example.py
+# instabot-py-example.py
 Instabot-py GitHub repo:<br>
 https://github.com/instabot-py/instabot.py<br>
 original example.py link:<br>
